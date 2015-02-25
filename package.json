@@ -1,0 +1,52 @@
+{
+  "name": "zach-sprite",
+  "version": "2.0.3",
+  "description": "csssprite auto support bin-packing and md5",
+  "main": "./lib/zach_sprite",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/king-king/zach_sprite"
+  },
+  "keywords": [
+    "css",
+    "sprite",
+    "auto",
+    "bin-packing",
+    "md5"
+  ],
+  "author": {
+    "name": "qun wang"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/king-king/zach-sprite/issues"
+  },
+  "homepage": "https://github.com/king-king/zach-sprite",
+  "dependencies": {
+    "images": "2.1.0"
+  },
+  "_id": "zach-sprite@1.0.3",
+  "_shasum": "01a4daddc4286a01bc71f78dfbf70f3f859d99bf",
+  "_from": "zach-sprite@1.0.3",
+  "_npmVersion": "2.1.11",
+  "_nodeVersion": "0.10.30",
+  "_npmUser": {
+    "name": "wangqun",
+    "email": "niuyiwangqun@sohu.com"
+  },
+  "maintainers": [
+    {
+      "name": "wangqun",
+      "email": "niuyiwangqun@sohu.com"
+    }
+  ],
+  "dist": {
+    "shasum": "01a4daddc4286a01bc71f78dfbf70f3f859d99bf",
+    "tarball": "http://registry.npmjs.org/zach-sprite/-/zach-sprite-1.0.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/zach-sprite/-/zach-sprite-1.0.3.tgz"
+}
