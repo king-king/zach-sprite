@@ -1,6 +1,6 @@
 {
   "name": "zach-sprite",
-  "version": "2.0.3",
+  "version": "2.0.6",
   "description": "csssprite auto support bin-packing and md5",
   "main": "./lib/zach_sprite",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/king-king/zach_sprite"
+    "url": "https://github.com/king-king/zach-sprite"
   },
   "keywords": [
     "css",

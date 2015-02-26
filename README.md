@@ -6,7 +6,7 @@
 * 图片压缩。
 
 ## Installation 安装
-	$ npm install images
+	$ npm install zach-sprite
 
 除此之外，还需要安装
 * images。
@@ -70,9 +70,9 @@ compress( {
 } )
 ```
 说明：
-* 图片压缩调用的是tinypng网站提供的图片压缩接口，需要到该网站[获取key](https://tinypng.com/developers)
+* 图片压缩调用的是[tinypng网站](https://tinypng.com/)提供的图片压缩接口，需要到该网站[获取key](https://tinypng.com/developers)
 * 需要说明的是，压缩接口每月前500次调用是免费的，之后会收费，具体规则见网站介绍
 * 压缩的返回结果包含压缩率等信息，但是不会自动把压缩后的文件下载，会返回压缩图片的url，需要调用者自己手工下载（复制url到浏览器地址栏，敲击回车）
-
+* 返回的图片的url不是永久的，需要及时下载。具体规则见网站介绍
 
 ## 更多具体使用方法见example文件夹中的example.js文件
