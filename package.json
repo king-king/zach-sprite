@@ -1,6 +1,6 @@
 {
   "name": "zach-sprite",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "csssprite auto support bin-packing and md5",
   "main": "./lib/zach_sprite",
   "scripts": {
