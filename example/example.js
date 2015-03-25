@@ -4,7 +4,7 @@
 var fs = require( "fs" );
 
 var sprite = require( "../lib/zach_sprite" ).sprite;
-var compress = require( "../lib/zach_spriteUtil" ).util.compress;
+var compress = require( "../lib/zach_sprite" ).compress;
 var files = ["img/1.png", "img/2.png", "img/3.png", "img/4.png", "img/5.png", "img/6.png", "img/7.png"];
 var files2 = ["img/f-0.png", "img/f-1.png", "img/f-2.png"];
 
